@@ -1,6 +1,6 @@
 @font-face{
     font-family: 'NeusHaas';
-    src: url(/Fonts/NeueHaasDisplay-Light.ttf);
+    src: url(../Fonts/NeueHaasDisplay-Light.ttf);
 }
 body{
     margin: 0;
